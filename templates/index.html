@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <title>String Generator</title>
+</head>
+
+<body>
+    <center>
+        <h2>String Generator</h2>
+        <form action="/generate" method="POST" id="generateForm">
+            <div>
+                <label for="name"># of characters:</label>
+                <input type="number" min="1" id="name" name="name" value="{{length}}">
+            </div>
+            <br />
+            <button class="btn btn-primary" onclick="document.getElementById('generateForm').submit()">Generate</button>
+        </form>
+        <p>{{name}}</p>
+    </center>
+</body>
+
+</html>
