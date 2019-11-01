@@ -1,6 +1,7 @@
 Simple random string generator as a Flask app.
 
-To use:
+To use locally:
+
 1. Clone repo
 
         git clone https://github.com/alienemoji/flask-str-gen
