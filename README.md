@@ -22,3 +22,9 @@ To use locally:
         flask run
         
 5. Point browser to localhost:5000
+
+------------------------------
+
+To do:
+
+Add checkboxes to specify characters
