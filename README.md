@@ -1,4 +1,4 @@
-Simple random string generator as a Flask app.
+A simple random string generator as a Flask app.
 
 To use locally:
 
