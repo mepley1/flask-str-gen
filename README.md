@@ -18,6 +18,7 @@ To use locally:
         
 4. Run app
 
-        python app.py
+        export FLASK_APP=app.py
+        flask run
         
 5. Point browser to localhost:5000
