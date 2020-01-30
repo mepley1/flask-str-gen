@@ -7,10 +7,10 @@ To use locally:
         git clone https://github.com/alienemoji/flask-str-gen
         cd flask-str-gen
         
-2. (Recommended) Create and activate a virtualenv
+2. (Recommended) Create and activate a venv
 
-        virtualenv venv
-        source venv/bin/activate
+        python3 -m venv env
+        source env/bin/activate
         
 3. Install requirements
 
@@ -27,4 +27,4 @@ To use locally:
 
 To do:
 
-Add checkboxes to specify characters
+*Add checkboxes to specify characters
