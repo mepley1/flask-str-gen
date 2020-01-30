@@ -27,4 +27,4 @@ To use locally:
 
 To do:
 
-*Add checkboxes to specify characters
+- Add checkboxes to specify characters
