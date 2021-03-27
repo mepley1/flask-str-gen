@@ -1,4 +1,4 @@
-A simple random string generator as a Flask app.
+A simple random string generator as a Flask app template.
 
 To use locally:
 
@@ -27,4 +27,4 @@ To use locally:
 
 To do:
 
-- Add checkboxes to specify characters
+- Add checkboxes to specify inclusion of numbers/symbols
