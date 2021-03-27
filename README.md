@@ -1,4 +1,4 @@
-A simple random string generator as a Flask app template.
+A simple random string generator as a Flask app template. Reloads page to update, to avoid using Javascript.
 
 To use locally:
 
