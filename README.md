@@ -1,5 +1,4 @@
-A simple random string generator as a Flask app. Reloads page to update, to avoid using Javascript.
-Made as a learning project.
+A simple random string generator as a Flask app. Made as a learning project.
 
 To use locally:
 
