@@ -1,4 +1,4 @@
-A simple random string generator as a Flask app. Made as a learning project.
+A simple random string generator as a Flask app. Made as a Flask learning project.
 
 To use locally:
 
@@ -27,4 +27,4 @@ To use locally:
 
 To do:
 
-- Add checkboxes to specify inclusion of numbers/symbols
+- Add ability to specify inclusion of numbers/symbols
